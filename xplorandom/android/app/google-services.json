@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "344754017161",
+    "firebase_url": "https://xplorandom-default-rtdb.firebaseio.com",
+    "project_id": "xplorandom",
+    "storage_bucket": "xplorandom.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344754017161:android:26304aeb877e646fc40758",
+        "android_client_info": {
+          "package_name": "com.edwinpaezalonso.xplorandom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344754017161-bicso458n3s3adheuf820g50og7g0p6v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmdObTQOowUIQxC-2NA6An2XDBBaoSrCU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "344754017161-bicso458n3s3adheuf820g50og7g0p6v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,8 @@
+covid-img: (Derechos Autor)
+<a href="https://www.freepik.es/fotos/medico">Foto de Médico creado por kjpargeter - www.freepik.es</a>
+
+covid_img_2:
+<a href="https://www.freepik.es/fotos/fondo">Foto de Fondo creado por freepik - www.freepik.es</a>
+
+cuidado_1:
+<a href="https://www.freepik.es/fotos/personas">Foto de Personas creado por lifeforstock - www.freepik.es</a>

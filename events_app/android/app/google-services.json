@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "394640586727",
+    "project_id": "events-e3ea4",
+    "storage_bucket": "events-e3ea4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394640586727:android:132b723e9fcd0ceffeaf42",
+        "android_client_info": {
+          "package_name": "com.edwinpaezalonso.eventsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "394640586727-h6idr2tr5p3nv43jqnq6o1ohd5f6p0pc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPesh_0Hio0RlyOKZ6BoADD92btaN3yhE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "394640586727-h6idr2tr5p3nv43jqnq6o1ohd5f6p0pc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

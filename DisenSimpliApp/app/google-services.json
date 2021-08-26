@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "12091331976",
+    "project_id": "disesimplyapp",
+    "storage_bucket": "disesimplyapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:12091331976:android:7dce635ed5b884aff2563d",
+        "android_client_info": {
+          "package_name": "com.edwinpaezalonso.disensimpliapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "12091331976-4012u6akqetvt3tljaiq8e05dleonu18.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4nV7u41KF_1cH7G9DeGrEiwxj0hUAcWU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "12091331976-4012u6akqetvt3tljaiq8e05dleonu18.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

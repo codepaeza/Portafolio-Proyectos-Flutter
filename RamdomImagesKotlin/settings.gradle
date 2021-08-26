@@ -1,0 +1,2 @@
+rootProject.name='RamdomImagesKotlin'
+include ':app'

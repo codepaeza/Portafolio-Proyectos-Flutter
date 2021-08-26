@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "469749390655",
+    "firebase_url": "https://granjasolarcontrol-default-rtdb.firebaseio.com",
+    "project_id": "granjasolarcontrol",
+    "storage_bucket": "granjasolarcontrol.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:469749390655:android:0570b7f8ba2fdf093cc78a",
+        "android_client_info": {
+          "package_name": "com.edwinpaezalonso.granjasolarcontrol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "469749390655-gephj8gdpq06mlnb992lhset0b030ppa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbLm2mvjE4zod8GLoPVev02irZHViU670"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "469749390655-gephj8gdpq06mlnb992lhset0b030ppa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
